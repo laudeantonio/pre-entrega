@@ -1,6 +1,6 @@
 
 # Sistema de Gestión de Tickets y Escalamiento Crítico
-Nombre del Caso: Sistema automatizar la recepción de Incidencias técnicos, clasificarlos por prioridad y días festivos, generar un ID de seguimiento único y alertar de inmediato al equipo seleccionado para la prioridad.
+Descripción del caso: Sistema automatizar la recepción de Incidencias técnicos, clasificarlos por prioridad y días festivos, generar un ID de seguimiento único y alertar de inmediato al equipo seleccionado para la prioridad.
 
 Recepción_Ticket_Soporte (Webhook): Punto de entrada que escucha peticiones externas (GET) y recibe el JSON con los datos del email, usuario, tipo de problema y nivel de escalamiento.
 
